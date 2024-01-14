@@ -1,7 +1,7 @@
 Hi ! 👋 My name is Lukas
 =============================================================================================================================
 
-Software Engineer & Developer
+Developer & Software Engineer
 -----------------------------
 
 description goes here
