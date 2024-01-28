@@ -9,7 +9,7 @@ description goes here
 *   🌍  I'm based in Germany
 *   🖥️  See my portfolio at [My Portfolio](http://rickroll.it/rickroll.mp4)
 *   ✉️  You can contact me at [lukasbaum.dev@gmail.com](mailto:lukasbaum.dev@gmail.com)
-*   🚀  I'm currently working on [Discord Typescript Handler](http://github.com/lukazbaum/discordjs-v14-handler)
+*   🚀  I'm currently working on [Discord Typescript Handler](https://github.com/lukazbaum/discordjs-command-handler)
 *   🧠  I'm learning Rust
 *   🤝  I'm open to collaborating on Discord related stuff
 *   ⚡  end stuff goes here
