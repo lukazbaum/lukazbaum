@@ -3,7 +3,7 @@
 ## Developer & Software Engineer
 *   🌍  Based in Germany
 *   ✉️  Contact me at [lukasbaum.dev@gmail.com](mailto:lukasbaum.dev@gmail.com)
-*   🚀  Currently working on [Discord Typescript Handler](https://github.com/lukazbaum/discord-bot-handler)
+*   🚀  Currently working on [Discord Bot Handler](https://github.com/lukazbaum/discord-bot-handler)
 *   🤝  Open to collaborating on Discord-related projects
 *   💬  Reach me on Discord [@lukasbaum](https://discord.com/users/lukasbaum)
 
