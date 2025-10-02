@@ -5,7 +5,6 @@
 *   ✉️  Contact me at [lukas@lukasbaum.dev](mailto:lukas@lukasbaum.dev)
 *   🚀  Currently working on [Discord Bot Handler](https://github.com/lukazbaum/discord-bot-handler)
 *   🤝  Open to collaborating on Discord-related projects
-*   💬  Reach me on Discord [@lukasbaum](https://discord.com/users/lukasbaum)
 
 ## Technical Skills
 ### Programming Languages
