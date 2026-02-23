@@ -1,33 +1,64 @@
-# Hi! 👋 My name is Lukas
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:111827&height=140&section=header"/>
+</p>
 
-## Developer & Software Engineer
-*   🌍  Based in Germany
-*   ✉️  Contact me at [lukas@lukasbaum.dev](mailto:lukas@lukasbaum.dev)
-*   🚀  Currently working on [Discord Bot Handler](https://github.com/lukazbaum/discord-bot-handler)
-*   🤝  Open to collaborating on Discord-related projects
+<h1 align="center">Lukas Baum</h1>
+<h3 align="center">Developer Tooling • AI Agents • dApps</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20Tooling-0D1117?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Architecture-Agent%20Based-0D1117?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Interest-Developer%20Tooling-0D1117?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Germany-0D1117?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
 
-## Technical Skills
-### Programming Languages
-![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
+<h2>⚙️ Technical Skills</h2>
 
-### Frameworks & Tools
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/bun-282a36?style=for-the-badge&logo=bun&logoColor=fbf0df)
-![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+<h4>Languages</h4>
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-### Development Tools
-![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
-![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<h4>Backend & Infrastructure</h4>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+</p>
 
-## GitHub Activity
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lukazbaum&theme=dracula)
-![](https://streak-stats.demolab.com?user=lukazbaum&theme=dracula&hide_border=true&card_width=700)
+<h4>DevOps & Tooling</h4>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+<h4>Observability</h4>
+<p>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
+</p>
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lukazbaum&theme=dark&background=111827&border=1F2937&stroke=1F2937&ring=1F6FEB&fire=1F6FEB&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888"/>
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lukazbaum&bg_color=111827&color=ffffff&line=1F6FEB&point=ffffff&hide_border=false&border_color=1F2937"/>
+
+<!---
+<h2>📬 Connect</h2>
+
+<p>
+  <a href="https://x.com/elonmusk" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:lukas@lukasbaum.com" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://lukasbaum.com" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=safari&logoColor=white"/>
+  </a>
+</p>
+--->
